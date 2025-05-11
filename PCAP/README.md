@@ -23,8 +23,6 @@
     * [Instalación de pip](contenido/seccion04/clase2.md)
     * [Cómo usar pip](contenido/seccion04/clase3.md)
     * [Ejemplo de uso de pip](contenido/seccion04/clase4.md)
-    * [Test intermedio: comprueba lo que has aprendido](contenido/seccion04/test.md)
-    * [Prueba intermedia](contenido/seccion04/prueba.md)
 5. Cadenas de caracteres
     * [Codificación de caracteres en Python (P)](contenido/seccion05/clase1.md)
     * [Introducción a las cadenas de caracteres](contenido/seccion05/clase2.md)
@@ -55,8 +53,6 @@
     * [La instrucción assert (P)](contenido/seccion07/clase5.md)
     * [Excepciones integradas (P)](contenido/seccion07/clase6.md)
     * [LABORATORIO: Leer enteros de forma segura (P)](contenido/seccion07/clase7.md)
-    * [Test intermedio: comprueba lo que has aprendido](contenido/seccion07/test.md)
-    * [Prueba intermedia](contenido/seccion07/prueba.md)
 8. Introducción a la Programación Orientada a Objetos
     * [Introducción a la programación orientada a objetos (P)](contenido/seccion08/clase1.md)
     * [Programación orientada a objetos en Python](contenido/seccion08/clase2.md)
@@ -93,8 +89,6 @@
     * [El bloque else y finally en las excepciones](contenido/seccion11/clase1.md)
     * [Las excepciones son clases (P)](contenido/seccion11/clase2.md)
     * [Creación de nuevas excepciones](contenido/seccion11/clase3.md)
-    * [Test intermedio: comprueba lo que has aprendido](contenido/seccion11/test.md)
-    * [Prueba intermedia](contenido/seccion11/prueba.md)
 12. Generadores, iteradores y cierres
     * [Generadores e iteradores (P)](contenido/seccion12/clase1.md)
     * [La instrucción yield](contenido/seccion12/clase2.md)
@@ -125,9 +119,4 @@
     * [El módulo calendar](contenido/seccion14/clase8.md)
     * [Clases para crear calendarios](contenido/seccion14/clase9.md)
     * [LABORATORIO: El módulo calendar (P)](contenido/seccion14/clase10.md)
-    * [Test intermedio: comprueba lo que has aprendido](contenido/seccion14/test.md)
-    * [Prueba intermedia](contenido/seccion14/prueba.md)
-15. Prueba Final
-    * [Prueba Final 1](contenido/seccion15/prueba1.md)
-    * [Prueba Final 2](contenido/seccion15/prueba2.md)
 
